@@ -1,0 +1,15 @@
+.single-service {
+    position: relative;
+    text-align: center;
+    font-weight: 400;
+    margin: 0 0 30px 0;
+    padding: 25px 30px 30px 30px;
+    border-radius: 6px;
+    box-shadow: 0 0 0 0px #fff inset, 0 0 3px 0 rgb(0 0 0 / 30%);
+}
+
+.single-box {
+    position: relative;
+    padding: 60px 0 30px 0;
+    text-align: center;
+}
